@@ -33,6 +33,7 @@ Calculating the monthly returns <br>
 Calculating the average monthly return and the monthly standard deviation of each stock <br>
 Calculating the portfolio's expected return and standard deviation<br>
 Calculating the sharpe ratio<br>
+Creating the correlation matrix
 Obtaining the portfolio's beta and R square through a linear regression(the S&P500 index serves as the market portfolio)<br>
 Saving all the data as an excel file <br>
 
@@ -50,8 +51,11 @@ Analyzing the optimal portfolio as described above <br>
 
 ![Στιγμιότυπο οθόνης 2024-11-07 132744](https://github.com/user-attachments/assets/223628c8-d905-4a36-a9ff-068590737ffa)
 
-![Στιγμιότυπο οθόνης 2024-11-07 132809](https://github.com/user-attachments/assets/ee9b7b74-5343-4dfb-9fdb-3f97108400a1)
 
-![Στιγμιότυπο οθόνης 2024-11-07 132821](https://github.com/user-attachments/assets/76a31579-77ff-4f6b-8b01-6f75c4eef11e)
+![Στιγμιότυπο οθόνης 2024-11-07 215015](https://github.com/user-attachments/assets/bf4ad554-ef67-48d7-aadd-5f18998f8ec5)
 
 
+![Στιγμιότυπο οθόνης 2024-11-07 215004](https://github.com/user-attachments/assets/477634eb-f917-4132-9d94-19785e443d3e)
+
+#Disclaimer<br>
+This project serves educational purposes only. Under no circumstances should it be used as an actual investment tool.
