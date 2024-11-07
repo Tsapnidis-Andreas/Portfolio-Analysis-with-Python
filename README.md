@@ -58,5 +58,5 @@ Analyzing the optimal portfolio as described above <br>
 
 ![Στιγμιότυπο οθόνης 2024-11-07 215004](https://github.com/user-attachments/assets/477634eb-f917-4132-9d94-19785e443d3e)
 
-#Disclaimer<br>
+# Disclaimer<br>
 This project serves educational purposes only. Under no circumstances should it be used as an actual investment tool.
