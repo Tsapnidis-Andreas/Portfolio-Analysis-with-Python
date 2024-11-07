@@ -240,10 +240,9 @@ button2.place(x=240, y=80, width=200, height=20)
 
 #INITIALIZE!!!!!!!!!!!!!!!!
 
-#stocks=['msft','tsla','aapl']
-#weights=[0.5,0.3,0.2]
+
 global path
-path="C:/Users/tsapn/OneDrive/Υπολογιστής/halof wealth management/"
+path=" "
 
 global inflation_rate
 inflation_rate=((1.02)**(1/12)-1)*100
