@@ -47,8 +47,11 @@ Analyzing the optimal portfolio as described above <br>
 
 
 ## Example
-![Στιγμιότυπο οθόνης 2024-11-07 132744](https://github.com/user-attachments/assets/d11d1b96-6417-4bd1-899a-532b91e68498)
 
-![Στιγμιότυπο οθόνης 2024-11-07 132809](https://github.com/user-attachments/assets/6d35168e-2887-4b17-b601-b76157ba94e6)
+![Στιγμιότυπο οθόνης 2024-11-07 132744](https://github.com/user-attachments/assets/223628c8-d905-4a36-a9ff-068590737ffa)
 
-![Στιγμιότυπο οθόνης 2024-11-07 132821](https://github.com/user-attachments/assets/133e2e0d-eded-4ea2-a661-4f594d342b67)
+![Στιγμιότυπο οθόνης 2024-11-07 132809](https://github.com/user-attachments/assets/ee9b7b74-5343-4dfb-9fdb-3f97108400a1)
+
+![Στιγμιότυπο οθόνης 2024-11-07 132821](https://github.com/user-attachments/assets/76a31579-77ff-4f6b-8b01-6f75c4eef11e)
+
+
