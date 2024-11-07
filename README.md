@@ -27,7 +27,7 @@ Press 'OK'<br>
 ## How it works
 ### Portfolio Analysis
 The code entails: <br>
-Creating a GUI (Graphic User Interface) where the user enters the stickers of the stocks and the wcorresponding weights<br>
+Creating a GUI (Graphic User Interface) where the user enters the tickers of the stocks and the wcorresponding weights<br>
 Pulling data from yahoo finance via the yfinance Python library <br>
 Calculating the monthly returns <br>
 Calculating the average monthly return and the monthly standard deviation of each stock <br>
@@ -39,7 +39,7 @@ Saving all the data as an excel file <br>
 
 ### Portfolio Optimization 
 The code entails:<br>
-Creating a GUI (Graphic User Interface) where the user enters the stickers of the stocks
+Creating a GUI (Graphic User Interface) where the user enters the tickers of the stocks<br>
 Pulling data from yahoo finance via the yfinance Python library <br>
 Calculating the monthlyy returns <br>
 Calculating the average monthly return and the monthly standard deviation of each stock <br>
