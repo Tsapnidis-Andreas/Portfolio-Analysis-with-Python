@@ -16,11 +16,6 @@ Python <br>
 [Openpyxl](https://pypi.org/project/openpyxl/#:~:text=openpyxl%20is%20a%20Python%20library%20to)<br>
 [Xlsxwriter](https://pypi.org/project/XlsxWriter/#:~:text=XlsxWriter%20is%20a%20Python%20module%20for)<br>
 
-Notes:<br>
-The sharpe ratio is calculated with monthly values.<br>
-We consider the risk free rate and the inflation rate to be 2%<br>
-These values can be changed in the code
-
 # Portfolio Analysis and Optimization
 ## How to use
 Install the necessary libraries mentioned above<br>
@@ -63,6 +58,11 @@ Analyzing the optimal portfolio as described above <br>
 
 
 ![Στιγμιότυπο οθόνης 2024-11-07 215004](https://github.com/user-attachments/assets/477634eb-f917-4132-9d94-19785e443d3e)
+
+Notes:<br>
+The sharpe ratio is calculated with monthly values.<br>
+We consider the risk free rate and the inflation rate to be 2%<br>
+These values can be changed in the code
 
 # Disclaimer<br>
 This project serves educational purposes only. Under no circumstances should it be used as an actual investment tool.
