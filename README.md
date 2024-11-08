@@ -33,7 +33,7 @@ Calculating the monthly returns <br>
 Calculating the average monthly return and the monthly standard deviation of each stock <br>
 Calculating the portfolio's expected return and standard deviation<br>
 Calculating the sharpe ratio<br>
-Creating the correlation matrix
+Creating the correlation matrix<b>
 Obtaining the portfolio's beta and R square through a linear regression(the S&P500 index serves as the market portfolio)<br>
 Saving all the data as an excel file <br>
 
